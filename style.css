@@ -6,7 +6,7 @@ body{
     height: 100vh;
     justify-content: center;
     font-family: cursive;
-    background-color: rgb(160, 118, 1); 
+    background-color: blue; 
     overflow: hidden;
 }
 h2{
@@ -64,3 +64,4 @@ h2{
 .countdown #second::before{
     content: "Seconds";
 }
+
