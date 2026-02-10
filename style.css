@@ -22,7 +22,7 @@ h2{
 }
 .countdown{
     margin: 30px;
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: blue;
     width: 100%;
     color: black;
     height: 120px;
@@ -64,4 +64,5 @@ h2{
 .countdown #second::before{
     content: "Seconds";
 }
+
 
